@@ -1,0 +1,4 @@
+# Project: Caro (Gomoku) AI
+# Thư viện tiêu chuẩn của Python (không cần cài đặt qua pip):
+# - tkinter (Giao diện đồ họa)
+# - math, time, collections, random (Logic thuật toán)
